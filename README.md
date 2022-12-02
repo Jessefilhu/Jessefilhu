@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jessefilhu
+- 👋 Oi, sou @Jessefilhu
 - 👀 Tenho interesse de aprender 
 - 🌱 Atualmente estou aprendendo Python
 - 💞️ Estou procurando colaborar com qual quer pessoa que precisa de ajuda.
