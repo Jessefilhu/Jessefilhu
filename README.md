@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Jessefilhu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Tenho interesse de aprender 
+- 🌱 Atualmente estou aprendendo Python
+- 💞️ Estou procurando colaborar com qual quer pessoa que precisa de ajuda.
+- 📫 Jessef@hotmail.com.br é o meu e-mail de contato.
 
-<!---
-Jessefilhu/Jessefilhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
