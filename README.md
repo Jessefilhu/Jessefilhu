@@ -1,7 +1,5 @@
 - 👋 Oi, sou @Jessefilhu
-- 👀 Tenho interesse de aprender 
+- 👀 Tenho interesse de aprender
 - 🌱 Atualmente estou aprendendo Python
 - 💞️ Estou procurando colaborar com qual quer pessoa que precisa de ajuda.
-- 📫 Jessef@hotmail.com.br é o meu e-mail de contato.
-
-
+- 📫 Jessef@hotmail.com.br @jessefilhu {Insta} são os contatos.
